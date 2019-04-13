@@ -1,5 +1,3 @@
-## PDP schedule 
-
 ## Meeting Time
 Friday at 10:30am - 11:59 am
 
