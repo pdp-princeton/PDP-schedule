@@ -19,4 +19,8 @@ Please email Qihong Lu if you would like to join the mailing list
 | 04/05 | Richard Zemel | Controlling the Black Box: Learning Manipulable and Fair Representations |
 | 04/12 | Laura Bustamante | Motivation for cognitive and physical effort in depression |
 | 04/19 | Randy O'Reilly | TBD |
-|  |  |  |
+| 04/26 | TBD | TBD |
+| 05/03 | Taylor Webb, Steven Frankland | TBD |
+| 05/10 | Camden MacDowell | TBD |
+| 06/14 | Jennifer Bussell | TBD |
+
