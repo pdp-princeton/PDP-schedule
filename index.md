@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## PDP schedule 
 
-You can use the [editor on GitHub](https://github.com/pdp-princeton/schedule/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Meeting Time
+Friday at 10:30am - 11:59 am
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Join
+Please email Qihong Lu if you would like to join the mailing list
 
-### Markdown
+## Schedule 2019
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pdp-princeton/schedule/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+| Date | Speaker | Title | 
+| --- | --- | --- | 
+| 02/15 | Yunshu Fan | Neural mechanisms underlying reward-biased visual decisions  |
+| 02/22 | Sebastian Musslick | On the Rational Bounds of Cognitive Control |
+| 03/01 | Ishita Dasgupta | Amortized inference in humans and machines: An algorithmic account of ecological rationality     |
+| 03/15 | Daniel Takahashi | Functional ultrasound imaging of a vocal communication circuit |
+| 03/29 |  Sebastian Musslick, Anastasia Bizyaeva | Stability-Flexibility Dilemma in Cognitive Control: A Dynamical System Perspective |
+| 04/05 | Richard Zemel | Controlling the Black Box: Learning Manipulable and Fair Representations |
+| 04/12 | Laura Bustamante | Motivation for cognitive and physical effort in depression |
+| 04/19 | Randy O'Reilly | TBD |
+|  |  |  |
