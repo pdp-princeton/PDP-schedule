@@ -3,9 +3,6 @@
 ## Meeting Time
 Friday at 10:30am - 11:59 am
 
-## Join
-Please email Qihong Lu if you would like to join the mailing list
-
 ## Schedule 2019
 
 
@@ -24,3 +21,6 @@ Please email Qihong Lu if you would like to join the mailing list
 | 05/10 | Camden MacDowell | TBD |
 | 06/14 | Jennifer Bussell | TBD |
 
+
+<br>
+Please email Qihong/Q if you would like to join the mailing list
