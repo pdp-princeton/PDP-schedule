@@ -22,10 +22,10 @@ Friday at 10:30am - 11:59 am
 | 06/14 | Jennifer Bussell | TBD |
 
 
-<br>
+<br><br>
 
 To subscribe to the mailing list, please email Qihong/Q: 
-<a href="qlu@princeton.edu">qlu@princeton.edu</a>
+qlu@princeton.edu
 
 To unsubscribe: send a blank email to: 
-<a href="PDPGROUP-signoff-request@LISTS.PRINCETON.EDU">PDPGROUP-signoff-request@LISTS.PRINCETON.EDU</a>
+PDPGROUP-signoff-request@LISTS.PRINCETON.EDU
