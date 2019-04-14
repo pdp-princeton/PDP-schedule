@@ -24,6 +24,8 @@ Friday at 10:30am - 11:59 am
 
 <br>
 
-To subscribe to the mailing list, please email Qihong/Q: <qlu@princeton.edu>
+To subscribe to the mailing list, please email Qihong/Q: 
+<a href="qlu@princeton.edu">qlu@princeton.edu</a>
 
-To unsubscribe: send a blank email to: <PDPGROUP-signoff-request@LISTS.PRINCETON.EDU>
+To unsubscribe: send a blank email to: 
+<a href="PDPGROUP-signoff-request@LISTS.PRINCETON.EDU">PDPGROUP-signoff-request@LISTS.PRINCETON.EDU</a>
