@@ -1,7 +1,9 @@
 ## Meeting Time
 Friday at 10:30am - 11:59 am
 
-## Schedule 2019
+
+
+## Spring 2019
 
 
 | Date | Speaker | Title | 
@@ -21,4 +23,7 @@ Friday at 10:30am - 11:59 am
 
 
 <br>
-Please email Qihong/Q if you would like to join the mailing list
+
+To subscribe to the mailing list, please email Qihong/Q: <qlu@princeton.edu>
+
+To unsubscribe: send a blank email to: <PDPGROUP-signoff-request@LISTS.PRINCETON.EDU>
