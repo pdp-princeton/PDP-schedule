@@ -15,9 +15,9 @@ Friday at 10:30am - 11:59 am
 | 03/29 |  Sebastian Musslick, Anastasia Bizyaeva | Stability-Flexibility Dilemma in Cognitive Control: A Dynamical System Perspective |
 | 04/05 | Richard Zemel | Controlling the Black Box: Learning Manipulable and Fair Representations |
 | 04/12 | Laura Bustamante | Motivation for cognitive and physical effort in depression |
-| 04/19 | Randy O'Reilly | TBD |
-| 04/26 | TBD | TBD |
-| 05/03 | Taylor Webb, Steven Frankland | TBD |
+| 04/19 | Randy O'Reilly | Predictive Learning of Goals and Motor Plans |
+| 04/26 | Andre Beukers | Modeling Working and Episodic Memory: Prospective Memory and the N-back Task  |
+| 05/03 | Taylor Webb, Steven Frankland | Extracting and Utilizing Abstract, Structured Representations for Analogy |
 | 05/10 | Camden MacDowell | TBD |
 | 06/14 | Jennifer Bussell | TBD |
 
