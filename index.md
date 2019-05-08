@@ -18,7 +18,8 @@ Friday at 10:30am - 11:59 am
 | 04/19 | Randy O'Reilly | Predictive Learning of Goals and Motor Plans |
 | 04/26 | Andre Beukers | Modeling Working and Episodic Memory: Prospective Memory and the N-back Task  |
 | 05/03 | Taylor Webb, Steven Frankland | Extracting and Utilizing Abstract, Structured Representations for Analogy |
-| 05/10 | Camden MacDowell | TBD |
+| 05/10 | Camden MacDowell | Dynamic motifs capture brain-wide patterns of neural activity |
+| 05/17 | T.S. Jayram | TBD |
 | 06/14 | Jennifer Bussell | TBD |
 
 
