@@ -1,6 +1,7 @@
+### Hi! This is the schedule for the PDP (parallel distributed processing) meeting at Princeton, a weekly seminar on neural/cognitive computational models.
+
 ## Meeting Time
 Friday at 10:30am - 11:59 am
-
 
 
 ## Spring 2019
@@ -19,11 +20,14 @@ Friday at 10:30am - 11:59 am
 | 04/26 | Andre Beukers | Modeling Working and Episodic Memory: Prospective Memory and the N-back Task  |
 | 05/03 | Taylor Webb, Steven Frankland | Extracting and Utilizing Abstract, Structured Representations for Analogy |
 | 05/10 | Camden MacDowell | Dynamic motifs capture brain-wide patterns of neural activity |
-| 05/17 | T.S. Jayram | TBD |
+| 05/17 | T.S. Jayram | Controlling Attention To Solve Working Memory Tasks Using a Memory-Augmented Neural Network |
+| 06/07 | Sara Aronowitz | TBD |
 | 06/14 | Jennifer Bussell | TBD |
 
 
 <br><br>
+
+#### Mailing list
 
 To subscribe to the mailing list, please email Qihong/Q: 
 qlu@princeton.edu
