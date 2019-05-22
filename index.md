@@ -1,4 +1,4 @@
-### Hi! This is the schedule for the PDP (parallel distributed processing) meeting at Princeton, a weekly seminar on neural/cognitive computational models.
+### Hi! This is the schedule for the <a href="https://en.wikipedia.org/wiki/Connectionism#Parallel_distributed_processing">PDP</a> meeting at Princeton, a weekly seminar on neural/cognitive computational models.
 
 ## Meeting Time
 Friday at 10:30am - 11:59 am
