@@ -21,8 +21,8 @@ Friday at 10:30am - 11:59 am
 | 05/03 | Taylor Webb, Steven Frankland | Extracting and Utilizing Abstract, Structured Representations for Analogy |
 | 05/10 | Camden MacDowell | Dynamic motifs capture brain-wide patterns of neural activity |
 | 05/17 | T.S. Jayram | Controlling Attention To Solve Working Memory Tasks Using a Memory-Augmented Neural Network |
-| 06/07 | Sara Aronowitz | TBD |
-| 06/14 | Jennifer Bussell | TBD |
+| 06/07 | Sara Aronowitz | Learning through Simulation  |
+| 06/14 | Jennifer Bussell | Orbitofrontal representations of information in mice desiring to know |
 
 
 <br><br>
