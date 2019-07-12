@@ -23,7 +23,7 @@ Friday at 10:30am - 11:59 am
 | 05/17 | T.S. Jayram | Controlling Attention To Solve Working Memory Tasks Using a Memory-Augmented Neural Network |
 | 06/07 | Sara Aronowitz | Learning through Simulation  |
 | 06/14 | Jennifer Bussell | Orbitofrontal representations of information in mice desiring to know |
-
+| 07/26 | Kiyohito Iigaya | TBD | 
 
 <br><br>
 
