@@ -4,8 +4,21 @@
 Friday at 10:30am - 11:59 am
 
 
-## Spring 2019
+## Fall 2019
+| Date | Speaker | Title | 
+| --- | --- | --- | 
+| 09/27 | Qihong Lu |   |
+| 10/25 | Karan Grewal |   |
+| 11/01 | Matt Panichello |   |
+| 11/01 | James Antony |   |
+| 11/15 | Marius Cătălin Iordan |   |
+| 11/22 | Joshua Peterson |   |
+| 12/06 | Marcelo G Mattar |   |
+| 12/13 | Payam Piray |   |
 
+
+
+## Spring 2019
 
 | Date | Speaker | Title | 
 | --- | --- | --- | 
