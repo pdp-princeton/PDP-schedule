@@ -10,7 +10,7 @@ Friday at 10:30am - 11:59 am
 | 09/27 | Qihong Lu |   |
 | 10/25 | Karan Grewal |   |
 | 11/01 | Matt Panichello |   |
-| 11/01 | James Antony |   |
+| 11/08 | James Antony |   |
 | 11/15 | Marius Cătălin Iordan |   |
 | 11/22 | Joshua Peterson |   |
 | 12/06 | Marcelo G Mattar |   |
