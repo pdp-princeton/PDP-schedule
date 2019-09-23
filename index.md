@@ -5,6 +5,7 @@ Friday at 10:30am - 11:59 am
 
 
 ## Fall 2019
+
 | Date | Speaker | Title | 
 | --- | --- | --- | 
 | 09/27 | Qihong Lu | Learning to use episodic memory |
