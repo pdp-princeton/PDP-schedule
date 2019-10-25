@@ -9,7 +9,7 @@ Friday at 10:30am - 11:59 am
 | Date | Speaker | Title | 
 | --- | --- | --- | 
 | 09/27 | Qihong Lu | Learning to use episodic memory |
-| 10/25 | Karan Grewal | TBD  |
+| 10/25 | Karan Grewal | Chaining and the Historical Extensions of Adjective Use  |
 | 11/01 | Matt Panichello | TBD  |
 | 11/08 | James Antony |  TBD |
 | 11/15 | Marius Cătălin Iordan |  TBD |
