@@ -11,7 +11,7 @@ Friday at 10:30am - 11:59 am
 | 09/27 | Qihong Lu | Learning to use episodic memory |
 | 10/25 | Karan Grewal | Chaining and the Historical Extensions of Adjective Use  |
 | 11/01 | Matt Panichello | Neural mechanisms of selection in visual working memory  |
-| 11/08 | James Antony |  TBD |
+| 11/08 | James Antony |  March madness: an fMRI study of continuously updated surprise and suspense during basketball-watching |
 | 11/15 | Marius Cătălin Iordan |  TBD |
 | 11/22 | Joshua Peterson |  TBD |
 | 12/06 | Marcelo G Mattar |  TBD |
