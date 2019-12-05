@@ -13,7 +13,7 @@ Friday at 10:30am - 11:59 am
 | 11/01 | Matt Panichello | Neural mechanisms of selection in visual working memory  |
 | 11/08 | James Antony |  March madness: an fMRI study of continuously updated surprise and suspense during basketball-watching |
 | 11/15 | Marius Cătălin Iordan |  Context Matters: Recovering Human Semantic Structure from Machine Learning Analysis of Large-Scale Text Corpora |
-| 12/06 | Marcelo G Mattar |  TBD |
+| 12/06 | Marcelo G Mattar |  Memory mechanisms predict sampling biases in sequential decision tasks |
 | 12/13 | Payam Piray | TBD  |
 
 
