@@ -4,6 +4,13 @@
 Friday at 10:30am - 11:59 am
 
 
+## Spring 2020
+
+| Date | Speaker | Title | 
+| --- | --- | --- | 
+| 01/17 | Ari Kahn | TBD |
+
+
 ## Fall 2019
 
 | Date | Speaker | Title | 
