@@ -8,8 +8,7 @@ Friday at 10:30am - 11:59 am
 
 | Date | Speaker | Title | 
 | --- | --- | --- | 
-| 01/17 | Ari Kahn | TBD |
-| 01/24 | Payam Piray | A common model explaining flexible decision making, grid fields and cognitive control |
+| 01/17 | Ari Kahn | Inferring Structure from Sequences |
 
 
 
