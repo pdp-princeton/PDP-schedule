@@ -14,7 +14,6 @@ Friday at 10:30am - 11:59 am
 | 02/07 | Payam Piray | A common model explaining flexible decision making, grid fields and cognitive control  |
 
 
-
 ## Fall 2019
 
 | Date | Speaker | Title | 
