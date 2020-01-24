@@ -9,6 +9,8 @@ Friday at 10:30am - 11:59 am
 | Date | Speaker | Title | 
 | --- | --- | --- | 
 | 01/17 | Ari Kahn | Inferring Structure from Sequences |
+| 01/31 | Nina Rouhani | tbd |
+| 02/07 | Payam Piray | A common model explaining flexible decision making, grid fields and cognitive control  |
 
 
 
