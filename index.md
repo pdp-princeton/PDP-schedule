@@ -1,8 +1,9 @@
 ### Hi! This is the schedule for the <a href="https://en.wikipedia.org/wiki/Connectionism#Parallel_distributed_processing">PDP</a> meeting at Princeton, a weekly seminar on neural/cognitive computational models.
 
-## Meeting Time
-Friday at 10:30am - 11:59 am
+Please email me qlu@princeton.edu if i) you would like to present this year; ii) you want to subscribe to the mailing list.
 
+## Meeting time 
+Friday at 10:30am - 11:59 am 
 
 ## Spring 2020
 
@@ -50,10 +51,3 @@ Friday at 10:30am - 11:59 am
 
 <br><br>
 
-#### Mailing list
-
-To subscribe to the mailing list, please email Qihong/Q: 
-qlu@princeton.edu
-
-To unsubscribe: send a blank email to: 
-PDPGROUP-signoff-request@LISTS.PRINCETON.EDU
