@@ -12,6 +12,18 @@ Friday at 10:30am - 11:59 am
 | 01/17 | Ari Kahn | Inferring Structure from Sequences |
 | 01/31 | Nina Rouhani | tbd |
 | 02/07 | Payam Piray | A common model explaining flexible decision making, grid fields and cognitive control  |
+| 02/21 | Rachit Dubey | tbd |
+| 03/13 | Mark Ho | tbd |
+| 02/28 | Ishita Dasgupta | tbd |
+| 03/27 | Mayank Agrawal | tbd |
+| 04/03 | William D. Thompson | tbd |
+| 04/17 | Maëlle Gueguen | tbd |
+| 04/24 | Thiago Tarraf Varella | tbd |
+| 05/01 | Qiong Zhang  | tbd |
+| 05/08 | Alex Libby | tbd |
+| 05/22 | Bob Wilson | tbd |
+| 05/29 | Daniel B. Bennett | tbd |
+| 06/05 | Sebastian Musslick | tbd |
 
 
 ## Fall 2019
