@@ -10,7 +10,7 @@ Friday at 10:30am - 11:59 am
 | Date | Speaker | Title | 
 | --- | --- | --- | 
 | 01/17 | Ari Kahn | Inferring Structure from Sequences |
-| 01/31 | Nina Rouhani | tbd |
+| 01/31 | Nina Rouhani | Reward prediction errors enhance memory and segment past experiences |
 | 02/07 | Payam Piray | A common model explaining flexible decision making, grid fields and cognitive control  |
 | 02/21 | Rachit Dubey | tbd |
 | 03/13 | Mark Ho | tbd |
