@@ -13,9 +13,10 @@ Friday at 10:30am - 11:59 am
 | 01/31 | Nina Rouhani | Reward prediction errors enhance memory and segment past experiences |
 | 02/07 | Payam Piray | A common model explaining flexible decision making, grid fields and cognitive control  |
 | 02/21 | tbd | tbd |
+| 02/28 | Ishita Dasgupta | tbd |
+| 03/06 | tbd | tbd |
 | 03/13 | Mark Ho | tbd |
 | 03/20 |  | cancelled due to spring break |
-| 02/28 | Ishita Dasgupta | tbd |
 | 03/27 | Mayank Agrawal | tbd |
 | 04/03 | William D. Thompson | tbd |
 | 04/10 |  | cancelled |
