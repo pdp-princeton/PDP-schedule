@@ -18,11 +18,11 @@ Friday at 10:30am - 11:59 am
 | 03/13 | Mark Ho | tbd |
 | 03/20 |  | cancelled due to spring break |
 | 03/27 | Mayank Agrawal | tbd |
-| 04/03 | William D. Thompson | tbd |
+| 04/03 | Qiong Zhang | tbd |
 | 04/10 |  | cancelled |
 | 04/17 | Maëlle Gueguen | tbd |
 | 04/24 | Thiago Tarraf Varella | tbd |
-| 05/01 | Qiong Zhang  | tbd |
+| 05/01 |  William D. Thompson | tbd |
 | 05/08 | Alex Libby | tbd |
 | 05/15 |  | cancelled |
 | 05/22 | Bob Wilson | tbd |
