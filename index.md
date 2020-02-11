@@ -12,19 +12,19 @@ Friday at 10:30am - 11:59 am
 | 01/17 | Ari Kahn | Inferring Structure from Sequences |
 | 01/31 | Nina Rouhani | Reward prediction errors enhance memory and segment past experiences |
 | 02/07 | Payam Piray | A common model explaining flexible decision making, grid fields and cognitive control  |
-| 02/21 | tbd | tbd |
+| 02/21 | Yeon Soon Shin | tbd |
 | 02/28 | Ishita Dasgupta | tbd |
-| 03/06 | tbd | tbd |
+| 03/06 | Rachit Dubey | tbd |
 | 03/13 | Mark Ho | tbd |
-| 03/20 |  | cancelled due to spring break |
+| 03/20 |  NA | cancelled due to spring break |
 | 03/27 | Mayank Agrawal | tbd |
 | 04/03 | Qiong Zhang | tbd |
-| 04/10 |  | cancelled |
+| 04/10 |  NA | cancelled |
 | 04/17 | Maëlle Gueguen | tbd |
 | 04/24 | Thiago Tarraf Varella | tbd |
 | 05/01 |  William D. Thompson | tbd |
 | 05/08 | Alex Libby | tbd |
-| 05/15 |  | cancelled |
+| 05/15 |  NA | cancelled |
 | 05/22 | Bob Wilson | tbd |
 | 05/29 | Daniel B. Bennett | tbd |
 | 06/05 | Sebastian Musslick | tbd |
