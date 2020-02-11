@@ -80,6 +80,6 @@ Friday at 10:30am - 11:59 am
 | 11/09 | Andre Beuker |  On the interactions between knowledge & learning |
 | 11/16 | Thomas Langlois | Visual Memory Biases Reflect Encoding Precision not Categorical Perception |
 | 11/16 | William D. Thompson |  Semantic Alignment Across Languages |
-| 11/30 | on Cohen | Expected Value of Control:  Theoretical Constructs and Methods | 
+| 11/30 | Jon Cohen | Expected Value of Control:  Theoretical Constructs and Methods | 
 | 12/07 | Bas Rokers | The Neural Basis of a Common Deficit in 3D Motion Perception | 
 
