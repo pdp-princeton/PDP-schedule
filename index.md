@@ -30,6 +30,9 @@ Friday at 10:30am - 11:59 am
 | 06/05 | Sebastian Musslick | tbd |
 
 
+<details>
+  <summary><h2>Click to view recent past meetings</h2></summary>
+
 ## Fall 2019
 
 | Date | Speaker | Title | 
@@ -66,3 +69,4 @@ Friday at 10:30am - 11:59 am
 
 <br><br>
 
+</details>
