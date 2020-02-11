@@ -22,7 +22,7 @@ Friday at 10:30am - 11:59 am
 | 04/10 |  NA | cancelled |
 | 04/17 | Maëlle Gueguen | tbd |
 | 04/24 | Thiago Tarraf Varella | tbd |
-| 05/01 |  William D. Thompson | tbd |
+| 05/01 | William D. Thompson | tbd |
 | 05/08 | Alex Libby | tbd |
 | 05/15 |  NA | cancelled |
 | 05/22 | Bob Wilson | tbd |
@@ -49,6 +49,7 @@ Friday at 10:30am - 11:59 am
 
 | Date | Speaker | Title | 
 | --- | --- | --- | 
+| 01/29 | Angela Radulescu and Daniel Bennett | Individual differences in attention allocation during value construction |
 | 02/15 | Yunshu Fan | Neural mechanisms underlying reward-biased visual decisions  |
 | 02/22 | Sebastian Musslick | On the Rational Bounds of Cognitive Control |
 | 03/01 | Ishita Dasgupta | Amortized inference in humans and machines: An algorithmic account of ecological rationality     |
@@ -65,4 +66,19 @@ Friday at 10:30am - 11:59 am
 | 06/14 | Jennifer Bussell | Orbitofrontal representations of information in mice desiring to know |
 | 07/26 | Kiyohito Iigaya | The value of what's to come: Neural mechanisms coupling prediction error and reward anticipation | 
 
-<br><br>
+
+## Fall 2018
+| Date | Speaker | Title | 
+| --- | --- | --- | 
+| 09/14 | Robert Hawkins | Coordinating on shared meaning in communication |
+| 09/21 | Alex Libby | Sustained and Dynamic Representations Support Contextual Sensory Processing |
+| 09/28 | N.A. | PDP symposium: https://pdpsymposium.princeton.edu/ |
+| 10/12 |  Matt Nassar | Learning outside of the vacuum: exploring the interactions between learning and memory |
+| 10/19 |  Rachit Dubey | Understanding curiosity and exploration in human and reinforcement learning agents |
+| 10/19 |  Fred Callaway |  Attention allocation in decision making as optimal sequential sampling |
+| 11/09 |  Andre Beuker |  On the interactions between knowledge & learning |
+| 11/16 |  Thomas Langlois | Visual Memory Biases Reflect Encoding Precision not Categorical Perception |
+| 11/16 |  William D. Thompson |  Semantic Alignment Across Languages |
+| 11/30 | Jon Cohen | Expected Value of Control:  Theoretical Constructs and Methods | 
+| 12/07 | Bas Rokers | The Neural Basis of a Common Deficit in 3D Motion Perception | 
+
