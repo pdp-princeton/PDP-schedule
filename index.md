@@ -68,17 +68,18 @@ Friday at 10:30am - 11:59 am
 
 
 ## Fall 2018
+
 | Date | Speaker | Title | 
 | --- | --- | --- | 
 | 09/14 | Robert Hawkins | Coordinating on shared meaning in communication |
 | 09/21 | Alex Libby | Sustained and Dynamic Representations Support Contextual Sensory Processing |
 | 09/28 | N.A. | PDP symposium: https://pdpsymposium.princeton.edu/ |
-| 10/12 |  Matt Nassar | Learning outside of the vacuum: exploring the interactions between learning and memory |
-| 10/19 |  Rachit Dubey | Understanding curiosity and exploration in human and reinforcement learning agents |
-| 10/19 |  Fred Callaway |  Attention allocation in decision making as optimal sequential sampling |
-| 11/09 |  Andre Beuker |  On the interactions between knowledge & learning |
-| 11/16 |  Thomas Langlois | Visual Memory Biases Reflect Encoding Precision not Categorical Perception |
-| 11/16 |  William D. Thompson |  Semantic Alignment Across Languages |
-| 11/30 | Jon Cohen | Expected Value of Control:  Theoretical Constructs and Methods | 
+| 10/12 | Matt Nassar | Learning outside of the vacuum: exploring the interactions between learning and memory |
+| 10/19 | Rachit Dubey | Understanding curiosity and exploration in human and reinforcement learning agents |
+| 10/19 | Fred Callaway |  Attention allocation in decision making as optimal sequential sampling |
+| 11/09 | Andre Beuker |  On the interactions between knowledge & learning |
+| 11/16 | Thomas Langlois | Visual Memory Biases Reflect Encoding Precision not Categorical Perception |
+| 11/16 | William D. Thompson |  Semantic Alignment Across Languages |
+| 11/30 | on Cohen | Expected Value of Control:  Theoretical Constructs and Methods | 
 | 12/07 | Bas Rokers | The Neural Basis of a Common Deficit in 3D Motion Perception | 
 
