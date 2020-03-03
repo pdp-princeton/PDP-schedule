@@ -14,7 +14,7 @@ Friday at 10:30am - 11:59 am
 | 02/07 | Payam Piray | A common model explaining flexible decision making, grid fields and cognitive control  |
 | 02/21 | Yeon Soon Shin | Quantifying the latent-cause inference process |
 | 02/28 | Ishita Dasgupta |  Learning causal reasoning |
-| 03/06 | Rachit Dubey | tbd |
+| 03/06 | Rachit Dubey | Aha! moments as a form of meta-cognitive prediction errors |
 | 03/13 | Mark Ho | tbd |
 | 03/20 |  NA | cancelled due to spring break |
 | 03/27 | Mayank Agrawal | tbd |
