@@ -22,7 +22,7 @@ Friday at 10:30am - 11:59 am
 | 04/10 | NA | cancelled |
 | 04/17 | Maëlle Gueguen | tbd |
 | 04/24 | Thiago Tarraf Varella | tbd |
-| 05/01 | William D. Thompson | tbd |
+| 05/01 | NA | cancelled |
 | 05/08 | Alex Libby | tbd |
 | 05/15 | Qiong Zhang | tbd |
 | 05/22 | Bob Wilson | tbd |
