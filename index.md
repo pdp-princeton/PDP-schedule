@@ -29,6 +29,7 @@ Friday at 10:30am - 11:59 am
 | 05/29 | Daniel B. Bennett | tbd |
 | 06/05 | Sebastian Musslick | tbd |
 | 06/12 | David L. Barack | tbd | 
+| 06/19 | Alex Libby | tbd |
 
 
 
