@@ -15,13 +15,13 @@ Friday at 10:30am - 11:59 am
 | 02/21 | Yeon Soon Shin | Quantifying the latent-cause inference process |
 | 02/28 | Ishita Dasgupta |  Learning causal reasoning |
 | 03/06 | Rachit Dubey | Aha! moments as a form of meta-cognitive prediction errors |
-| 03/13 | Mark Ho | tbd |
+| 03/13 | Mark Ho | Meta-Reasoning about Partial Plans |
 | 03/20 |  NA | cancelled due to spring break |
-| 03/27 | Mayank Agrawal | tbd |
+| 03/27 | Mayank Agrawal | The Temporal Structure of Cognitive Control Costs: A Normative Account of Mental Fatigue and Boredom |
 | 04/03 | NA | cancelled |
 | 04/10 | NA | cancelled |
-| 04/17 | Maëlle Gueguen | tbd |
-| 04/24 | Thiago Tarraf Varella | tbd |
+| 04/17 | Maëlle Gueguen | Cortical dynamics of outcome processing during reinforcement learning: Insights from invasive electrophysiology in humans  |
+| 04/24 | Thiago Tarraf Varella | Phase transitions in vocal development are driven by energy-information balance |
 | 05/01 | NA | cancelled |
 | 05/08 | NA | cancelled |
 | 05/15 | Qiong Zhang | tbd |
