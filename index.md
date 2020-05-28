@@ -24,12 +24,11 @@ Friday at 10:30am - 11:59 am
 | 04/24 | Thiago Tarraf Varella | Phase transitions in vocal development are driven by energy-information balance |
 | 05/01 | NA | cancelled |
 | 05/08 | NA | cancelled |
-| 05/15 | Qiong Zhang | tbd |
-| 05/22 | Bob Wilson | tbd |
-| 05/29 | Daniel B. Bennett | tbd |
-| 06/05 | Sebastian Musslick | tbd |
+| 05/15 | Qiong Zhang |  A resource-rational analysis of human memory search |
+| 05/22 | Bob Wilson | Information and randomization in exploration and exploitation |
+| 05/29 | Daniel B. Bennett | A model of mood as integrated advantage |
+| 06/05 | NA | cancelled |
 | 06/12 | David L. Barack | tbd | 
-| 06/19 | Alex Libby | tbd |
 
 
 
