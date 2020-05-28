@@ -27,8 +27,6 @@ Friday at 10:30am - 11:59 am
 | 05/15 | Qiong Zhang |  A resource-rational analysis of human memory search |
 | 05/22 | Bob Wilson | Information and randomization in exploration and exploitation |
 | 05/29 | Daniel B. Bennett | A model of mood as integrated advantage |
-| 06/05 | NA | cancelled |
-| 06/12 | David L. Barack | tbd | 
 
 
 
