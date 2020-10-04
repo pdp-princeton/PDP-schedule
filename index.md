@@ -2,8 +2,37 @@
 
 Please email me qlu@princeton.edu if i) you would like to present this year; ii) you want to subscribe to the mailing list.
 
-## Meeting time 
-Friday at 10:30am - 11:59 am 
+## When/where
+Friday 10:30am - 11:59 am EST @ Zoom, and all meetings are recorded for folks from other time zones 
+
+## Fall 2020
+
+#### Regular talks
+
+| Date | Speaker | Title | 
+| --- | --- | --- | 
+| 09/04 | David L. Barack | Information Seeking and Learning in Complex Environments |
+| 10/02 | Sashank Pisupati | Maladaptive avoidance: A latent cause perspective |
+| 10/30 | Robert Yang | TBD |
+| 11/06 | Sreejan Kumar | TBD |
+| 11/27 | Mingyu Song | TBD |
+| 12/04 | Sebastian Musslick | TBD |
+
+#### Thematic discussion
+| Date | Speaker | Title | 
+| --- | --- | --- | 
+| 10/09 and 10/16 | Sashank Pisupati, Erin Grant, Neil Garrett, Sean Allen, Ruairidh Battleday, Isabel Berwian, Fred Callaway, Bas van Opheusden, Caroline Jahn, Sina Tafazoli  |  Latent cause inference, instrumental conditioning, task learning and planning |
+| 10/23 | Qihong Lu, Andre Beukers, Qiong Zhang | Encoding strategies / segmentation for episodic memory |
+| 11/20 | Andre Beukers, Taylor Webb, Paul Krueger | Division of labor / Interactions between working memory and episodic memory |
+| 12/11 and 12/18 | Zack, Simon N. Segert, Steven M. Frankland, Ishita Dasgupta, Michael Chang, Mark Ho, Isabel Berwian | Learning of “basis sets” / “symmetry functions” useful for generalization / extrapolation |
+
+#### Thematic discussion planned for the upcoming semester
+| Date | Speaker | Title | 
+| --- | --- | --- | 
+| TBD | Qihong Lu, Qiong Zhang, Payam Piray, Sreejan, Carlos, Simon, Flora, Rachel, Mayank, Erin | Metalearning | 
+| TBD | Ruairidh Battleday, Taylor Webb, Simon, Bill, Bas  | Analogy and compositionality | 
+| TBD | Mayank, Sashank, Rachit Dubey, Alex Libby, Fred, Tyler, Caroline, Eleni, Camden | Explore v. Exploit, ITC and Control | 
+| TBD | Laura, Flora, Sebastian, Mayank, Matt Panichello, Tyler, Abby | Constraints on WM and Control | 
 
 ## Spring 2020
 
