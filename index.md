@@ -1,6 +1,6 @@
 ### Hi! This is the schedule for the <a href="https://en.wikipedia.org/wiki/Connectionism#Parallel_distributed_processing">PDP</a> meeting at Princeton, a weekly seminar on neural/cognitive computational models.
 
-Please email me qlu@princeton.edu if i) you would like to present this year; ii) you want to subscribe to the mailing list.
+Please email Qihong Lu qlu@princeton.edu if you'd like to subscribe to the mailing list.
 
 ## When/where
 Friday 10:30am - 11:59 am EST @ Zoom, and all meetings are recorded for folks from other time zones 
