@@ -19,6 +19,7 @@ Friday 10:30am - 11:59 am EST @ Zoom, and all meetings are recorded for folks fr
 | 12/04 | Sebastian Musslick | TBD |
 
 #### Thematic discussion
+
 | Date | Speaker | Title | 
 | --- | --- | --- | 
 | 10/09 and 10/16 | Sashank Pisupati, Erin Grant, Neil Garrett, Sean Allen, Ruairidh Battleday, Isabel Berwian, Fred Callaway, Bas van Opheusden, Caroline Jahn, Sina Tafazoli  |  Latent cause inference, instrumental conditioning, task learning and planning |
@@ -27,6 +28,7 @@ Friday 10:30am - 11:59 am EST @ Zoom, and all meetings are recorded for folks fr
 | 12/11 and 12/18 | Zack, Simon N. Segert, Steven M. Frankland, Ishita Dasgupta, Michael Chang, Mark Ho, Isabel Berwian | Learning of “basis sets” / “symmetry functions” useful for generalization / extrapolation |
 
 #### Thematic discussion planned for the upcoming semester
+
 | Date | Speaker | Title | 
 | --- | --- | --- | 
 | TBD | Qihong Lu, Qiong Zhang, Payam Piray, Sreejan, Carlos, Simon, Flora, Rachel, Mayank, Erin | Metalearning | 
