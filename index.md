@@ -13,9 +13,9 @@ Friday 10:30am - 11:59 am EST @ Zoom, and all meetings are recorded for folks fr
 | --- | --- | --- | 
 | 09/04 | David L. Barack | Information Seeking and Learning in Complex Environments |
 | 10/02 | Sashank Pisupati | Maladaptive avoidance: A latent cause perspective |
-| 10/30 | Robert Yang | TBD |
-| 11/06 | Sreejan Kumar | TBD |
-| 11/27 | Mingyu Song | TBD |
+| 10/30 | Robert Yang | Machine evolution of olfactory systems |
+| 11/06 | Sreejan Kumar | Meta-Learning of Compositional Task Distributions in Humans and Machines |
+| 11/27 | Mingyu Song | Learning multi-dimensional rules via reinforcement learning and hypothesis testing |
 | 12/04 | Sebastian Musslick | TBD |
 
 #### Thematic discussion
