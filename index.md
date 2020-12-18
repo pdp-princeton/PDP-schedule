@@ -5,6 +5,18 @@ Please email Qihong Lu qlu@princeton.edu if you'd like to subscribe to the maili
 ## When/where
 Friday 10:30am - 11:59 am EST @ Zoom, and all meetings are recorded for folks from other time zones 
 
+## Spring 2021 
+
+#### Thematic discussion 
+
+| Date | Speaker | Title | 
+| --- | --- | --- | 
+| TBD | Qihong Lu, Qiong Zhang, Payam Piray, Sreejan, Carlos, Simon, Flora, Rachel, Mayank, Erin | Metalearning | 
+| TBD | Ruairidh Battleday, Taylor Webb, Simon, Bill, Bas  | Analogy and compositionality | 
+| TBD | Mayank, Sashank, Rachit Dubey, Alex Libby, Fred, Tyler, Caroline, Eleni, Camden | Explore v. Exploit, ITC and Control | 
+| TBD | Laura, Flora, Sebastian, Mayank, Matt Panichello, Tyler, Abby | Constraints on WM and Control | 
+
+
 ## Fall 2020
 
 #### Regular talks
@@ -16,7 +28,7 @@ Friday 10:30am - 11:59 am EST @ Zoom, and all meetings are recorded for folks fr
 | 10/30 | Robert Yang | Machine evolution of olfactory systems |
 | 11/06 | Sreejan Kumar | Meta-Learning of Compositional Task Distributions in Humans and Machines |
 | 11/27 | Mingyu Song | Learning multi-dimensional rules via reinforcement learning and hypothesis testing |
-| 12/04 | Sebastian Musslick | TBD |
+| 12/04 | Sebastian Musslick | Autonomous empirical research |
 
 #### Thematic discussion
 
@@ -27,14 +39,6 @@ Friday 10:30am - 11:59 am EST @ Zoom, and all meetings are recorded for folks fr
 | 11/20 | Andre Beukers, Taylor Webb, Paul Krueger | Division of labor / Interactions between working memory and episodic memory |
 | 12/11 and 12/18 | Zack, Simon N. Segert, Steven M. Frankland, Ishita Dasgupta, Michael Chang, Mark Ho, Isabel Berwian | Learning of “basis sets” / “symmetry functions” useful for generalization / extrapolation |
 
-#### Thematic discussion planned for the upcoming semester
-
-| Date | Speaker | Title | 
-| --- | --- | --- | 
-| TBD | Qihong Lu, Qiong Zhang, Payam Piray, Sreejan, Carlos, Simon, Flora, Rachel, Mayank, Erin | Metalearning | 
-| TBD | Ruairidh Battleday, Taylor Webb, Simon, Bill, Bas  | Analogy and compositionality | 
-| TBD | Mayank, Sashank, Rachit Dubey, Alex Libby, Fred, Tyler, Caroline, Eleni, Camden | Explore v. Exploit, ITC and Control | 
-| TBD | Laura, Flora, Sebastian, Mayank, Matt Panichello, Tyler, Abby | Constraints on WM and Control | 
 
 ## Spring 2020
 
