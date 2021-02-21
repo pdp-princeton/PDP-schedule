@@ -8,12 +8,14 @@ Friday 10:30am - 11:59 am EST @ Zoom, and all meetings are recorded for folks fr
 ## Spring 2021 
 
 #### Regular talks
+
 | Date | Speaker | Title | 
 | --- | --- | --- | 
 | 1/22 | Oded Bein | Learning and updating structured knowledge |
 | 02/19 | Sam Zorowitz | The value of free choice in anxious individuals |
 
 #### Thematic discussion 
+
 | Date | Speaker | Title | 
 | --- | --- | --- | 
 | 02/05, 02/12, 02/26 | Qihong Lu, Qiong Zhang, Payam Piray, Sreejan, Carlos, Simon, Flora, Rachel, Mayank, Erin | Metalearning | 
