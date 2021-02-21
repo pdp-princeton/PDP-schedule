@@ -7,14 +7,19 @@ Friday 10:30am - 11:59 am EST @ Zoom, and all meetings are recorded for folks fr
 
 ## Spring 2021 
 
-#### Thematic discussion 
-
+#### Regular talks
 | Date | Speaker | Title | 
 | --- | --- | --- | 
-| TBD | Qihong Lu, Qiong Zhang, Payam Piray, Sreejan, Carlos, Simon, Flora, Rachel, Mayank, Erin | Metalearning | 
-| TBD | Ruairidh Battleday, Taylor Webb, Simon, Bill, Bas  | Analogy and compositionality | 
-| TBD | Mayank, Sashank, Rachit Dubey, Alex Libby, Fred, Tyler, Caroline, Eleni, Camden | Explore v. Exploit, ITC and Control | 
-| TBD | Laura, Flora, Sebastian, Mayank, Matt Panichello, Tyler, Abby | Constraints on WM and Control | 
+| 1/22 | Oded Bein | Learning and updating structured knowledge |
+| 02/19 | Sam Zorowitz | The value of free choice in anxious individuals |
+
+#### Thematic discussion 
+| Date | Speaker | Title | 
+| --- | --- | --- | 
+| 02/05, 02/12, 02/26 | Qihong Lu, Qiong Zhang, Payam Piray, Sreejan, Carlos, Simon, Flora, Rachel, Mayank, Erin | Metalearning | 
+| 03/19 | Ruairidh Battleday, Taylor Webb, Simon, Bill, Bas  | Analogy and compositionality | 
+| 03/26, 04/02, 04/18 | Mayank, Sashank, Rachit Dubey, Alex Libby, Fred, Tyler, Caroline, Eleni, Camden | Explore v. Exploit, ITC and Control | 
+| 04/15, 04/22 04/29 | Laura, Flora, Sebastian, Mayank, Matt Panichello, Tyler, Abby | Constraints on WM and Control | 
 
 
 ## Fall 2020
