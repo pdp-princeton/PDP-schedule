@@ -19,9 +19,9 @@ Friday 10:30am - 11:59 am EST @ Zoom, and all meetings are recorded for folks fr
 | Date | Speaker | Title | 
 | --- | --- | --- | 
 | 02/05, 02/12, 02/26 | Qihong Lu, Qiong Zhang, Payam Piray, Sreejan, Carlos, Simon, Flora, Rachel, Mayank, Erin | Metalearning | 
-| 03/19 | Ruairidh Battleday, Taylor Webb, Simon, Bill, Bas  | Analogy and compositionality | 
-| 03/26, 04/02, 04/09 | Mayank, Sashank, Rachit Dubey, Alex Libby, Fred, Tyler, Caroline, Eleni, Camden | Explore v. Exploit, ITC and Control | 
-| 04/16, 04/23 04/30 | Laura, Flora, Sebastian, Mayank, Matt Panichello, Tyler, Abby | Constraints on WM and Control | 
+| 03/19, 03/26 | Ruairidh Battleday, Taylor Webb, Simon, Bill, Bas  | Analogy and compositionality | 
+| 04/02, 04/09, 04/16 | Mayank, Sashank, Rachit Dubey, Alex Libby, Fred, Tyler, Caroline, Eleni, Camden | Explore v. Exploit, ITC and Control | 
+| 04/23, 04/30, 05/07 | Laura, Flora, Sebastian, Mayank, Matt Panichello, Tyler, Abby | Constraints on WM and Control | 
 
 
 ## Fall 2020
