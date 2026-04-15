@@ -1,9 +1,21 @@
 ### Hi! This is the schedule for the <a href="https://en.wikipedia.org/wiki/Connectionism#Parallel_distributed_processing">PDP</a> meeting at Princeton, a weekly seminar on neural/cognitive computational models.
 
-Please email Qihong Lu qlu@princeton.edu if you'd like to subscribe to the mailing list.
+Please email Ham Huang hamhuang@princeton.edu or Caroline Jahn cjahn@princeton.edu if you'd like to subscribe to the mailing list. 
 
 ## When/where
-Friday 10:30am - 11:59 am EST @ Zoom, and all meetings are recorded for folks from other time zones 
+Friday 10:30am - 11:45 am EST @ PSH 101 (typically), and meetings are NO LONGER recorded or zoomed to encourage in-person attendence (unless otherwise requested).
+
+## Spring 2026 
+
+#### Regular talks
+
+| Date | Speaker | Title | 
+| --- | --- | --- | 
+| 04/17 | Adel Ardalan | Composing Representations and Transformation to Enable Flexible and Generalizable Cognition. Or: Tangent Spaces are All You Need |
+| 04/24 | Mohan Gupta | TBD |
+| 05/15 | Jonathan Nicholas | TBD |
+| 05/29 | Declan Campell | TBD |
+
 
 ## Spring 2021 
 
