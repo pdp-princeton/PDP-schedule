@@ -11,7 +11,6 @@ Friday 10:30am - 11:45 am EST @ PSH 101 (typically), and meetings are NO LONGER 
 
 | Date | Speaker | Title | 
 | --- | --- | --- | 
-
 | 01/30 | Camilla van Geen | A computational account of developmental changes in fear learning and extinction |
 | 02/06 | Matthew Rosenberg | Mice traverse hidden latent graphs via freely moving virtual reality |
 | 02/13 | Javier Masis | Learning expectations shape cognitive control allocation |
@@ -30,7 +29,6 @@ Friday 10:30am - 11:45 am EST @ PSH 101 (typically), and meetings are NO LONGER 
 
 | Date | Speaker | Title | 
 | --- | --- | --- | 
-
 | 09/19 | Zhu Jian-qiao | Three Ways of Using LLM Embeddings in Cognitive Science |
 | 09/26 | Sebastian Musslick | Automated Scientific Discovery of Mind and Brain |
 | 10/24 | Matt Nassar | Latent states part two: learning temporal structures and generalizations |
@@ -45,7 +43,6 @@ Friday 10:30am - 11:45 am EST @ PSH 101 (typically), and meetings are NO LONGER 
 
 | Date | Speaker | Title | 
 | --- | --- | --- | 
-
 | 1/24 | Mostafa Abdou | Leveraging large language models to estimate clinically relevant psychological constructs from psychotherapy transcripts |
 | 2/7 | Qinpu He | Dynamics of neural representations during the learning of a compositional tasks |
 | 2/14 | Harrison Ritz | Dynamic neural control of task representations in humans and neural networks |
@@ -62,7 +59,6 @@ Friday 10:30am - 11:45 am EST @ PSH 101 (typically), and meetings are NO LONGER 
 
 | Date | Speaker | Title | 
 | --- | --- | --- | 
-
 | 09/20 | Jon Cohen | A Unifying Information Theoretic Principle Underlying  Capacity Constraints in Cognitive Function |
 | 10/04 | Dylan Rich | dynamic code in the hippocampus for learning and forgetting |
 | 10/11 | Mousa Karayanni | Neural correlates of few-shot learning in the Orbitofrontal cortex |
