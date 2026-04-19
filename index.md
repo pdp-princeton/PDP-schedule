@@ -11,10 +11,61 @@ Friday 10:30am - 11:45 am EST @ PSH 101 (typically), and meetings are NO LONGER 
 
 | Date | Speaker | Title | 
 | --- | --- | --- | 
+
+| 01/30 | Camilla van Geen | A computational account of developmental changes in fear learning and extinction |
+| 02/06 | Matthew Rosenberg | Mice traverse hidden latent graphs via freely moving virtual reality |
+| 02/13 | Javier Masis | Learning expectations shape cognitive control allocation |
+| 02/27 | Georgy Antonov | The exploitation of uncertainty for efficient exploration, learning and planning |
+| 03/20 | Brenden Lake | More accurate behavioral predictions with hybrid Bayesian-connectionist models |
+| 04/03 | Nadine Dijkstra | Keeping apart imagery and perception in a generative brain |
 | 04/17 | Adel Ardalan | Composing Representations and Transformation to Enable Flexible and Generalizable Cognition. Or: Tangent Spaces are All You Need |
 | 04/24 | Mohan Gupta | Lumping or Splitting: How Context Shapes Motor Sequence Representations in Humans and Recurrent Neural Networks |
 | 05/15 | Jonathan Nicholas | TBD |
 | 05/29 | Declan Campell | TBD |
+
+
+## Fall 2025
+
+#### Regular talks
+
+| Date | Speaker | Title | 
+| --- | --- | --- | 
+
+| 09/19 | Zhu Jian-qiao | Three Ways of Using LLM Embeddings in Cognitive Science |
+| 09/26 | Sebastian Musslick | Automated Scientific Discovery of Mind and Brain |
+| 10/24 | Matt Nassar | Latent states part two: learning temporal structures and generalizations |
+| 10/31 | Marina Dubova | Excess Capacity Learning |
+| 11/14 | Ari Kahn | Predictive Models in Planning and Decision Making |
+| 11/21 | Ham Huang | Reward inequity disrupts reinforcement learning |
+| 12/05 | Ellie Holton | Learning without forgetting: Trade-offs in knowledge structuring for humans and neural networks |
+
+## Spring 2025
+
+#### Regular talks
+
+| Date | Speaker | Title | 
+| --- | --- | --- | 
+
+| 1/24 | Mostafa Abdou | Leveraging large language models to estimate clinically relevant psychological constructs from psychotherapy transcripts |
+| 2/7 | Qinpu He | Dynamics of neural representations during the learning of a compositional tasks |
+| 2/14 | Harrison Ritz | Dynamic neural control of task representations in humans and neural networks |
+| 2/21| Mohan Gupta | I Need a Break: Task Similarity’s Effect on Memory Formation and Fatigue in Motor Skill Learning |
+| 03/14 | Branson Byers | Tractability and Goal Selection |
+| 03/28 | Nataniel Daw | Automated discovery of interpretable cognitive models |
+| 04/04 | Alex Nguyen | A Computational model of Representational Change in the Hippocampus during Discrimination Learning |
+| 05/23 | Maya Malaviya | Efficient Teaching in Continuous Spaces |
+| 05/30 | Isabel Berwian | Predicting response to CBT-based interventions with individual learning abilities |
+
+## Fall 2024
+
+#### Regular talks
+
+| Date | Speaker | Title | 
+| --- | --- | --- | 
+
+| 09/20 | Jon Cohen | A Unifying Information Theoretic Principle Underlying  Capacity Constraints in Cognitive Function |
+| 10/04 | Dylan Rich | dynamic code in the hippocampus for learning and forgetting |
+| 10/11 | Mousa Karayanni | Neural correlates of few-shot learning in the Orbitofrontal cortex |
 
 
 ## Spring 2021 
