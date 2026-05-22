@@ -20,7 +20,7 @@ Friday 10:30am - 11:45 am EST @ PSH 101 (typically), and meetings are NO LONGER 
 | 04/17 | Adel Ardalan | Composing Representations and Transformation to Enable Flexible and Generalizable Cognition. Or: Tangent Spaces are All You Need |
 | 04/24 | Mohan Gupta | Lumping or Splitting: How Context Shapes Motor Sequence Representations in Humans and Recurrent Neural Networks |
 | 05/15 | Jonathan Nicholas | Flexible decisions arise from resource-rational episodic memory sampling |
-| 05/22 | Declan Campell | TBD |
+| 05/22 | Declan Campell | From seeing to thinking: evaluating the mechanisms underlying visual reasoning in VLMs |
 | 05/29 | Rodrigo Carrasco Davis | TBD |
 
 
