@@ -1,6 +1,6 @@
 ### Hi! This is the schedule for the <a href="https://en.wikipedia.org/wiki/Connectionism#Parallel_distributed_processing">PDP</a> meeting at Princeton, a weekly seminar on neural/cognitive computational models.
 
-The meeting is currently organized by Ham Huang hamhuang@princeton.edu and Caroline Jahn cjahn@princeton.edu. Please email us if you'd like to subscribe to the mailing list. 
+The meeting is currently organized by Ham Huang hamhuang@princeton.edu and Dr. Caroline Jahn cjahn@princeton.edu. Please email us if you'd like to subscribe to the mailing list. 
 
 ## When/where
 Friday 10:30am - 11:45 am EST @ PSH 101 (typically), and meetings are NO LONGER recorded or zoomed to encourage in-person attendence (unless otherwise requested).
