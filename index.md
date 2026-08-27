@@ -1,9 +1,24 @@
 ### Hi! This is the schedule for the <a href="https://en.wikipedia.org/wiki/Connectionism#Parallel_distributed_processing">PDP</a> meeting at Princeton, a weekly seminar on neural/cognitive computational models.
 
-The meeting is currently organized by Ham Huang hamhuang@princeton.edu and Dr. Caroline Jahn cjahn@princeton.edu. Please email us if you'd like to subscribe to the mailing list. 
+The meeting is currently organized by Ham Huang hamhuang@princeton.edu and Dr. Caroline Jahn cjahn@princeton.edu. Please email us if you'd like to subscribe to the mailing list. The meeting is supported by the labs of Drs. Jon Cohen, Yael Niv, Tim Buschman, Ken Norman, Nathaniel Daw, Tom Griffiths, Jordan Taylor, Brenden Lake, and Taylor Webb.
 
 ## When/where
 Friday 10:30am - 11:45 am EST @ PSH 101 (typically), and meetings are NO LONGER recorded or zoomed to encourage in-person attendence (unless otherwise requested).
+
+## Fall 2026 
+
+#### Regular talks
+
+| Date | Speaker | Title | 
+| --- | --- | --- | 
+| 09/04 | Jake Snell |  |
+| 09/11 | Cody Dong |  |
+| 09/18 | Adam Huang | |
+| 10/02 | Jonathan Tsay |  |
+| 10/16 | Dhairyya Singh | |
+| 11/06 | Melody Li | |
+| 11/20 | Kamesh Krishnamurthy | |
+| 12/18 | Rochelle Kaper | |
 
 ## Spring 2026 
 
