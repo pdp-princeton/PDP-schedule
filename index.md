@@ -64,7 +64,7 @@ Friday 10:30am - 11:45 am EST @ PSH 101 (typically), and meetings are NO LONGER 
 | 2/14 | Harrison Ritz | Dynamic neural control of task representations in humans and neural networks |
 | 2/21| Mohan Gupta | I Need a Break: Task Similarity’s Effect on Memory Formation and Fatigue in Motor Skill Learning |
 | 03/14 | Branson Byers | Tractability and Goal Selection |
-| 03/28 | Nataniel Daw | Automated discovery of interpretable cognitive models |
+| 03/28 | Nathaniel Daw | Automated discovery of interpretable cognitive models |
 | 04/04 | Alex Nguyen | A Computational model of Representational Change in the Hippocampus during Discrimination Learning |
 | 05/23 | Maya Malaviya | Efficient Teaching in Continuous Spaces |
 | 05/30 | Isabel Berwian | Predicting response to CBT-based interventions with individual learning abilities |
