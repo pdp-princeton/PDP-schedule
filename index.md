@@ -11,7 +11,7 @@ Friday 10:30am - 11:45 am EST @ PSH 101 (typically), and meetings are NO LONGER 
 
 | Date | Speaker | Title | 
 | --- | --- | --- | 
-| 09/04 | Jake Snell |  |
+| 09/04 | Jake Snell | Revealing the Biases of Artificial Neural Networks by Inferring Prior Distributions |
 | 09/11 | Cody Dong |  |
 | 09/18 | Adam Huang | |
 | 10/02 | Jonathan Tsay |  |
