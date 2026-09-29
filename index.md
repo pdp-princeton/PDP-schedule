@@ -14,7 +14,7 @@ Friday 10:30am - 11:45 am EST @ PSH 101 (typically), and meetings are NO LONGER 
 | 09/04 | Jake Snell | Revealing the Biases of Artificial Neural Networks by Inferring Prior Distributions |
 | 09/11 | Cody Dong | Optimizing the Usefulness of Episodic Memory Retrieval for Prediction |
 | 09/18 | Adam Huang | Applying Mathematics of Quantum Theory to Understand Human Cognition |
-| 10/02 | Jonathan Tsay |  |
+| 10/02 | Jonathan Tsay | Fundamental Processes in Motor Learning: Reasoning, Refinement, Retrieval |
 | 10/16 | Dhairyya Singh | |
 | 11/06 | Melody Li | |
 | 11/20 | Kamesh Krishnamurthy | |
