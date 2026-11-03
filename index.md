@@ -16,7 +16,7 @@ Friday 10:30am - 11:45 am EST @ PSH 101 (typically), and meetings are NO LONGER 
 | 09/18 | Adam Huang | Applying Mathematics of Quantum Theory to Understand Human Cognition |
 | 10/02 | Jonathan Tsay | Fundamental Processes in Motor Learning: Reasoning, Refinement, Retrieval |
 | 10/16 | Dhairyya Singh | A mixture-of-experts model of control over hippocampal learning |
-| 11/06 | Melody Li | |
+| 11/06 | Melody Li | What drives the emergence of symbolic mechanisms in large language models? |
 | 11/20 | Kamesh Krishnamurthy | |
 | 12/18 | Rochelle Kaper | |
 
