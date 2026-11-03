@@ -5,6 +5,25 @@ The meeting is currently organized by Ham Huang hamhuang@princeton.edu and Dr. C
 ## When/where
 Friday 10:30am - 11:45 am EST @ PSH 101 (typically), and meetings are NO LONGER recorded or zoomed to encourage in-person attendence (unless otherwise requested).
 
+## Spring 2027
+
+#### Regular talks
+
+| Date | Speaker | Title | 
+| --- | --- | --- | 
+| 02/05 | Adel Ardalan | |
+| 03/05 | Ilker Yildirim | |
+| 03/26 |  | |
+| 04/02 | | |
+| 04/16 | | |
+| 04/30 | | |
+| 05/07 | | |
+| 05/14 | | |
+| 05/21 | | |
+| 05/28 | | |
+
+
+
 ## Fall 2026 
 
 #### Regular talks
